@@ -1,6 +1,7 @@
 package main
 //added comment
-// sample aapp is very bad
+//This is the newly added by a great person
+/sample aapp is very bad
 import (
 	"fmt"
 	"github.com/Sreevani871/sample/math"
